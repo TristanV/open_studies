@@ -1,2 +1,2 @@
 # open_studies
-some studies related to publications
+some studies related to my publications
