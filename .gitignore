@@ -1,3 +1,24 @@
+
+# ignore datasets (*.csv *.zip *.pkl *.json *.jpg ...)
+**/dataset/*.csv
+**/dataset/**/*.csv
+**/dataset/*.txt
+**/dataset/**/*.txt
+**/dataset/*.zip
+**/dataset/**/*.zip
+**/dataset/*.pkl
+**/dataset/**/*.pkl
+**/dataset/*.json
+**/dataset/**/*.json
+**/dataset/*.jpg
+**/dataset/**/*.jpg
+**/dataset/*.h5
+**/dataset/**/*.h5
+**/dataset/*.checkpoint
+**/dataset/**/*.checkpoint
+**/dataset/*.vec
+**/dataset/**/*.vec 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
